@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_fajita.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_fajita-user \
-    lmodroid_fajita-userdebug \
-    lmodroid_fajita-eng
